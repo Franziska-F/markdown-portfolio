@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture of a Red Fox](https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.dreamstime.com%2Frotfuchs-tierfoto-fox-red-anima-kopf-nahaufnahme-profil-ansicht-portrait-der-wintersaison-nahprofil-des-rotfox-kopfes-image165309071&psig=AOvVaw3Qlq6HoaIFh2FdW56qMr6v&ust=1649868324701000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKC5nNf8jvcCFQAAAAAdAAAAABAD) 
